@@ -1,0 +1,32 @@
+.App {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  margin: 1em;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 16px;
+  text-align: center;
+}
+
+span {
+  color: royalblue;
+}
+
+
+.main {
+  margin-left: 50%;
+}
